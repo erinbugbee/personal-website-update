@@ -29,7 +29,8 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: PI: Cleotilde Gonzalez
-        
+    
+experience:
   - title: President
     company: Brown Data Science Club
     company_url: 'http://browndata.org/'
@@ -37,7 +38,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-05-17'
     description:
-    
+
+experience:    
   - title: Undergraduate Researcher
     company: Sloman Lab
     company_url: 'https://sites.google.com/site/slomanlab/home'
@@ -45,7 +47,8 @@ experience:
     date_start: '2019-09-03'
     date_end: '2020-09-01'
     description: Studying human trust in machines in the workplace through behavioral experimentation.
-    
+
+experience:
   - title: Undergraduate Researcher
     company: Learning, Memory & Decision Lab
     company_url: 'https://sites.brown.edu/mattlab/'
@@ -53,7 +56,8 @@ experience:
     date_start: '2019-01-22'
     date_end: '2020-05-24'
     description: Used reinforcement learning models to understand how place field remapping might be used to improve learning in dynamic environments through simulations of the multi-armed bandit task.
-    
+ 
+ experience:
   - title: Sales Analytics & Insights Intern
     company: The Walt Disney Company
     company_url: ''
@@ -61,7 +65,8 @@ experience:
     date_start: '2019-05-27'
     date_end: '2019-08-23'
     description: Parks, Experiences, and Consumer Products
-   
+ 
+ experience:
   - title: Explore Intern
     company: Microsoft
     company_url: 'https://careers.microsoft.com/us/en/usexploremicrosoftprogram'
@@ -69,7 +74,8 @@ experience:
     date_start: '2018-05-31'
     date_end: '2018-08-17'
     description: Microsoft Support Engineering Group, Cloud & AI Platform
-    
+
+experience:
   - title: Undergraduate Researcher
     company: Institute for Computational and Experimental Research in Mathematics
     company_url: 'https://icerm.brown.edu/summerug/2017/'
