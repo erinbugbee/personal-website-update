@@ -44,9 +44,7 @@ experience:
     location: 'Providence, RI'
     date_start: '2019-09-03'
     date_end: '2020-09-01'
-    description: |2-
-      PI: Steven Sloman
-      Studying human trust in machines in the workplace through behavioral experimentation.
+    description: 'PI: Steven Sloman. Studying human trust in machines in the workplace through behavioral experimentation.'
 
   - title: 'Undergraduate Researcher'
     company: 'Learning, Memory & Decision Lab'
@@ -54,9 +52,7 @@ experience:
     location: 'Providence, RI'
     date_start: '2019-01-22'
     date_end: '2020-05-24'
-    description: |2-
-    PI: Matthew Nassar
-    Used reinforcement learning models to understand how place field remapping might be used to improve learning in dynamic environments through simulations of the multi-armed bandit task.'
+    description: 'PI: Matthew Nassar. Used reinforcement learning models to understand how place field remapping might be used to improve learning in dynamic environments through simulations of the multi-armed bandit task.'
  
   - title: 'Sales Analytics & Insights Intern'
     company: 'The Walt Disney Company'
