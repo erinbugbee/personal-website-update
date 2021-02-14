@@ -14,7 +14,7 @@ organizations:
   url: https://www.cmu.edu/dietrich/sds/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sequential decision making, learning in humans and machines, and behavioral game theory.
 
 # Interests to show in About widget
 interests:
