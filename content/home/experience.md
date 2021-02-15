@@ -56,7 +56,7 @@ experience:
  
   - title: 'Sales Analytics & Insights Intern'
     company: 'The Walt Disney Company'
-    company_url: ''
+    company_url: 'https://jobs.disneycareers.com/professional-internships'
     location: 'Orlando, FL'
     date_start: '2019-05-27'
     date_end: '2019-08-23'
