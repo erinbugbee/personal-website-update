@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: The Power of Data and Data Visualization
 
-event: The Power of Data and Data Visualization Cohort
+event: Intern From Home Cohort
 event_url: https://www.internfromhome.com
 
 location: Remote
