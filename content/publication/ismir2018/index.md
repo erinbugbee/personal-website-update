@@ -11,7 +11,7 @@ authors:
 - admin
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 
 date: "2018-09-23T00:00:00Z"
 doi: ""
@@ -55,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
