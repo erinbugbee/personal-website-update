@@ -73,5 +73,5 @@ highlight_name: true
 I am a PhD student in Behavioral Decision Research in the Department of Social & Decision Sciences at Carnegie Mellon University.
 
 {{< icon name="graduation-cap" pack="fas" >}} Visit my {{< staticref "https://www.cmu.edu/dietrich/sds/people/phdstudents/erin-bugbee.html" "newtab" >}}Academic website{{< /staticref >}}.
-<\br}
+<br}
 {{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
