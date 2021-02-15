@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: In *International Society for Music Information Retrieval*
 publication_short: In *ISMIR*
 
-abstract: The matrix-based representations commonly used in MIR tasks are often difficult to interpret. This work introduces start-end (SE) diagrams and start(normalized)-length (SNL) diagrams, two novel structure-based representations for sequential music data. Inspired by methods from topological data analysis, both SE and SNL diagrams come equipped with efficiently computable and stable metrics. Utilizing SE or SNL diagrams as input, we address the cover song task for score-based data with high accuracy. While both representations are concisely defined and flexible, SNL diagrams in particular address issues introduced by commonly used resampling methods.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
