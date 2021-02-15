@@ -64,7 +64,7 @@ experience:
  
   - title: 'Explore Intern'
     company: 'Microsoft'
-    company_url: 'https://careers.microsoft.com/us/en/usexploremicrosoftprogram'
+    company_url: 'https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram'
     location: 'Redmond, WA'
     date_start: '2018-05-31'
     date_end: '2018-08-17'
