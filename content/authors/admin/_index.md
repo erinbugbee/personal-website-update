@@ -74,4 +74,4 @@ I am a PhD student in Behavioral Decision Research in the Department of Social &
 
 {{< icon name="graduation-cap" pack="fas" >}} Visit my {{< staticref "https://www.cmu.edu/dietrich/sds/people/phdstudents/erin-bugbee.html" "newtab" >}}Academic website{{< /staticref >}}.
 <br>
-{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
