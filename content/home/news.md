@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "News"
+title = News
 subtitle = ""
 
 [design]
@@ -44,10 +44,10 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ # css_style = ""
  
  # CSS class.
- css_class = ""
+ # css_class = ""
 ---
 
 [American Statistical Association StatsGrad Award](https://thisisstatistics.org/congrats-2020-statsgrad-winner/)
