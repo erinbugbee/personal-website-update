@@ -57,9 +57,9 @@ subtitle = ""
 ## Brown University
 
 - NEUR 1660: Neural Computations in Learning and Decision Making (Spring 2020)
-- {{< staticref "https://cs.brown.edu/courses/cs100/" "newtab" >}}CSCI 0100: Data Fluency for All, Head Teaching Assistant (Fall 2019){{< /staticref >}
+- CSCI 0100: Data Fluency for All, Head Teaching Assistant (Fall 2019)
 - CLPS 0220: Making Decisions (Spring 2019)
-- {{< staticref "https://cs.brown.edu/courses/csci1951-a/" "newtab" >}}CSCI 1951A: Data Science (Spring 2019){{< /staticref >}
+- CSCI 1951A: Data Science (Spring 2019)
 - PHP 1501: Essentials of Data Analysis (Fall 2018)
 - APMA 1655: Statistical Inference I (Fall 2018)
-- {{< staticref "https://cs.brown.edu/courses/cs100/" "newtab" >}}CSCI 0100: Data Fluency for All, Head Teaching Assistant (Fall 2017){{< /staticref >}
+- CSCI 0100: Data Fluency for All, Head Teaching Assistant (Fall 2017)
