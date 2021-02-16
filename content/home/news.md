@@ -1,18 +1,25 @@
 ---
-# A Teaching section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-widget = blank  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
-title = News
-subtitle = ""
+# Order that this section appears on the page.
+weight: 60
 
+# Section title
+title: News
+
+# Section subtitle
+subtitle:
+
+# Section design
 design:
-  columns = "2"
+  # Use a 1-column layout
+  columns: "2"
+
 ---
 
 [American Statistical Association StatsGrad Award](https://thisisstatistics.org/congrats-2020-statsgrad-winner/)
