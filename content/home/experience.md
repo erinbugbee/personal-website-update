@@ -44,7 +44,7 @@ experience:
     location: 'Providence, RI'
     date_start: '2019-09-03'
     date_end: '2020-09-01'
-    description: 'PI: Steven Sloman. Studying human trust in machines in the workplace through behavioral experimentation.'
+    description: 'PI: Steven Sloman. Studied trust in machines in the workplace through behavioral experimentation.'
 
   - title: 'Undergraduate Researcher'
     company: 'Learning, Memory & Decision Lab'
