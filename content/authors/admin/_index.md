@@ -6,7 +6,7 @@ title: Erin H. Bugbee
 superuser: true
 
 # Role/position/tagline
-role: Behavioral Decision Research PhD Student at Carnegie Mellon
+role: Cognitive Decision Science PhD Student at Carnegie Mellon
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Behavioral Decision Research
+  - course: PhD Cognitive Decision Science
     institution: Carnegie Mellon University
     year: 2025
   - course: ScB Statistics with Honors
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in Behavioral Decision Research through the Department of Social & Decision Sciences at Carnegie Mellon University.
+I am currently a PhD student in the Department of Social & Decision Sciences at Carnegie Mellon University.
 
 {{< icon name="graduation-cap" pack="fas" >}} Visit my {{< staticref "https://www.cmu.edu/dietrich/sds/people/phdstudents/erin-bugbee.html" "newtab" >}}Academic website{{< /staticref >}}.
 <br>
