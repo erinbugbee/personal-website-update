@@ -22,6 +22,8 @@ design:
 
 ---
 
+[Featured in Meeting Street Podcast: The History and Science of Virtual Reality, Cogut Institute for the Humanities at Brown University] https://www.brown.edu/academics/humanities/meeting-street-episode3
+
 [American Statistical Association StatsGrad Award](https://thisisstatistics.org/congrats-2020-statsgrad-winner/)
 
 [Computer Science for Societal Good, Brown CS](https://cs.brown.edu/news/2019/02/19/computer-science-societal-good/?fbclid=IwAR2p2irSQPtVvezj6flfn2Ix-w7d1SuQxUpjNTjiePokHuYftSCOY0fCHJI)
