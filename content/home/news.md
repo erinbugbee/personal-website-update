@@ -22,7 +22,7 @@ design:
 
 ---
 
-[Featured in Meeting Street Podcast: The History and Science of Virtual Reality, Cogut Institute for the Humanities at Brown University] https://www.brown.edu/academics/humanities/meeting-street-episode3
+[Featured in Meeting Street Podcast: The History and Science of Virtual Reality, Cogut Institute for the Humanities at Brown University] (https://www.brown.edu/academics/humanities/meeting-street-episode3)
 
 [American Statistical Association StatsGrad Award](https://thisisstatistics.org/congrats-2020-statsgrad-winner/)
 
