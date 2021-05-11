@@ -1,5 +1,5 @@
 ---
-title: Cognitive Models of Sequential Choice in the Optimal Stopping Problem
+title: Cognitive Models of Sequential Choice in the Optimal Stopping Task
 
 event: MathPsych 2021
 event_url: https://mathpsych.org
